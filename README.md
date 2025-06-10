@@ -1,5 +1,12 @@
 # SAEfarer User Study
 
+## Contents
+
+- [notebooks](notebooks/): Jupyter notebooks used during the study. Links to them on Google Colab are available below.
+- [protocol.pdf](protocol.pdf): The protocol of the study.
+- [slides.pdf](slides.pdf): The deck of slides used during the introduction, tutorial, and interview.
+- [system-usability-scale-google-form.pdf](system-usability-scale-google-form.pdf): A PDF of the System Usability Scale Google Form.
+
 ## Notebooks
 
 | Dataset/model | Description                                                       | Colab Notebook                                                                                                                                                                                                                                 |
