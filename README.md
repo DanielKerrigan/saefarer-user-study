@@ -6,6 +6,7 @@
 - [protocol.pdf](protocol.pdf): The protocol of the study.
 - [slides.pdf](slides.pdf): The deck of slides used during the introduction, tutorial, and interview.
 - [system-usability-scale-google-form.pdf](system-usability-scale-google-form.pdf): A PDF of the System Usability Scale Google Form.
+- [system-usability-scale-responses.csv](system-usability-scale-responses.csv): The participants' responses to the SUS.
 
 ## Notebooks
 
