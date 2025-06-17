@@ -7,8 +7,9 @@
 - [slides.pdf](slides.pdf): The deck of slides used during the introduction, tutorial, and interview.
 - [system-usability-scale-google-form.pdf](system-usability-scale-google-form.pdf): A PDF of the System Usability Scale Google Form.
 - [system-usability-scale-responses.csv](system-usability-scale-responses.csv): The participants' responses to the SUS.
+  - The visualization for the SUS scores is in this [Observable notebook](https://observablehq.com/d/30dc742c66d72b0c).
 
-## Notebooks
+## Colab Notebooks
 
 | Dataset/model | Description                                                       | Colab Notebook                                                                                                                                                                                                                                 |
 | ------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
